@@ -1,0 +1,1 @@
+gcc main.cpp -lGL -lGLU -lglut
